@@ -1,4 +1,4 @@
-Concurrency, Parallelism, Process calculi, Effects systems
+Concurrency, Parallelism, Process calculi, Effects systems on JVM and beyond
 
 # STM
 * https://nbronson.github.io/scala-stm/
