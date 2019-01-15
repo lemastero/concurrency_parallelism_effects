@@ -27,6 +27,7 @@ Practice & theory behing concurrency, parallelism, process calculi and effects s
 * [yallop/effects-bibliography](https://github.com/yallop/effects-bibliography)
 
 # benchmarks (Streams, effects types)
+* https://github.com/travisbrown/iteratee
 * http://letitcrash.com/post/14783691760/akka-vs-erlang
 * https://alexn.org/blog/2016/08/25/monix-task-performance.html
 * http://degoes.net/articles/scalaz8-is-the-future
