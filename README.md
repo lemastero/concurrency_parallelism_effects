@@ -1,4 +1,4 @@
-Concurrency, Parallelism, Process calculi, Effects systems on JVM and beyond
+Practice & theory behing concurrency, parallelism, process calculi and effects systems on JVM and beyond
 
 # STM
 * [scala-stm](https://nbronson.github.io/scala-stm/)
@@ -25,3 +25,15 @@ Concurrency, Parallelism, Process calculi, Effects systems on JVM and beyond
 
 # bibliography of computational effects
 * [yallop/effects-bibliography](https://github.com/yallop/effects-bibliography)
+
+# benchmarks (Streams, effects types)
+* http://letitcrash.com/post/14783691760/akka-vs-erlang
+* https://alexn.org/blog/2016/08/25/monix-task-performance.html
+* http://degoes.net/articles/scalaz8-is-the-future
+* https://doc.akka.io/docs/akka/1.3/additional/benchmarks.html
+* https://github.com/ThoughtWorksInc/Dsl.scala/wiki/Benchmarks:-Dsl.scala-vs-Monix-vs-Cats-Effect-vs-Scalaz-Concurrent-vs-Scala-Async-vs-Scala-Continuation
+* https://github.com/fosskers/scala-benchmarks
+
+# benchmarks - collections, web framework and other offtopics :)
+* http://www.lihaoyi.com/post/BenchmarkingScalaCollections.html
+* https://www.techempower.com/benchmarks/
