@@ -15,6 +15,7 @@ Practice & theory behing concurrency, parallelism, process calculi and effects s
 * [C++ Boost Coroutine vs Fiber - SO](https://stackoverflow.com/questions/44521178/what-is-the-difference-between-coroutine-coroutine2-and-fiber)
 * [Why I'm Excited About Scalaz 8 - John A De Goes](http://degoes.net/articles/scalaz8-is-the-future)
 * [kilim - Lightweight threads for Java](https://github.com/kilim/kilim)
+* [puniverse/quasar - Fibers, Channels and Actors for the JVM](https://github.com/puniverse/quasar)
 * [Eta Fibers Towards Better Concurrency on the JVM - Rahul Muttineni (video)](https://www.youtube.com/watch?v=ZuJg2cfmSmw) [slides](https://rahulmutt.github.io/slides/fuconf17-eta-fibers/slides.html#1)
 * [Coroutines, Fibers and Threads, Oh My (video)](https://www.youtube.com/watch?v=S6JpbmeuzNg)
 
