@@ -23,8 +23,13 @@ Practice & theory behing concurrency, parallelism, process calculi and effects s
 * https://www.youtube.com/watch?v=50z-TP0_HEA&list=PLf2bbiic5ZjD3q67melAFj8UWUFZy4PKP
 * Rho-Calculus Papers (http://rho.loria.fr/papersGuidelines.html)
 
-# bibliography of computational effects
+# resources about computational effects & parallelism
 * [yallop/effects-bibliography](https://github.com/yallop/effects-bibliography)
+* [Haskell Wiki - Parallelism and concurrency](https://wiki.haskell.org/Research_papers/Parallelism_and_concurrency)
+* Algebraic Effects and Handlers - Andrej Bauer [(video lectures)](https://www.cs.uoregon.edu/research/summerschool/summer18/topics.php#Bauer)
+* [effect-handlers/effects-rosetta-stone](https://github.com/effect-handlers/effects-rosetta-stone)
+* Algebraic Effect Handlers go Mainstream [links to publications of participants](https://www.dagstuhl.de/program/calendar/partlist/?semnr=18172&SUOG), report with summary of talks [(pdf)](http://drops.dagstuhl.de/opus/volltexte/2018/9762/pdf/dagrep_v008_i004_p104_18172.pdf)
+
 
 # benchmarks (Streams, effects types)
 * https://github.com/travisbrown/iteratee
