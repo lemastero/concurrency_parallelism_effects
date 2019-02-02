@@ -41,6 +41,8 @@ Practice & theory behing concurrency, parallelism, process calculi and effects s
 * [Wikipedia](https://en.wikipedia.org/wiki/%CE%A0-calculus) [Hacker News](https://news.ycombinator.com/item?id=6908837)
 * PiLib: A Hosted Language for Pi-Calculus Style
 Concurrency - Vincent Cremet, Martin Odersky [(pdf)](http://lampwww.epfl.ch/~cremet/publications/pilib.pdf) [Scala 2.9 scala.concurrent.pilib](https://github.com/scala/legacy-svn-scala/blob/2.9.x-opening/src/library/scala/concurrent/pilib.scala)
+* [pmatiello/pistache](https://github.com/pmatiello/pistache)
+* A π-Calculus Internal Domain-Specific - Language for Scala[(pdf)](https://www.ime.usp.br/~cef/mac499-10/monografias/pedromatiello/pistache-monograph/monograph.pdf), [(slides)](https://www.slideshare.net/pmatiello/pistache-sbmf)
 
 # rho-calculus
 * https://blog.rchain.coop/blog/2018/07/17/intro-rho-calc/
