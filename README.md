@@ -1,5 +1,8 @@
 Practice & theory behing concurrency, parallelism, process calculi and effects systems on JVM and beyond
 
+# Fork Join
+* [Java Tutorials - Fork/Join](https://docs.oracle.com/javase/tutorial/essential/concurrency/forkjoin.html)
+
 # STM
 * [scala-stm](https://nbronson.github.io/scala-stm/)
 * [Haskell STM](http://hackage.haskell.org/package/stm)
@@ -32,8 +35,14 @@ Practice & theory behing concurrency, parallelism, process calculi and effects s
 
 # Join Calculus
 * [Chymyst/chymyst-core](https://github.com/Chymyst/chymyst-core)
+* [Scala 2.8 scala.concurrent.jolib](https://github.com/scala/legacy-svn-scala/blob/2.8.x-opening/src/library/scala/concurrent/jolib.scala)
 
-# pi-calculus & rho-calculus
+# π-calculus (pi calculus)
+* [Wikipedia](https://en.wikipedia.org/wiki/%CE%A0-calculus) [Hacker News](https://news.ycombinator.com/item?id=6908837)
+* PiLib: A Hosted Language for Pi-Calculus Style
+Concurrency - Vincent Cremet, Martin Odersky [(pdf)](http://lampwww.epfl.ch/~cremet/publications/pilib.pdf) [Scala 2.9 scala.concurrent.pilib](https://github.com/scala/legacy-svn-scala/blob/2.9.x-opening/src/library/scala/concurrent/pilib.scala)
+
+# rho-calculus
 * https://blog.rchain.coop/blog/2018/07/17/intro-rho-calc/
 * https://www.youtube.com/watch?v=50z-TP0_HEA&list=PLf2bbiic5ZjD3q67melAFj8UWUFZy4PKP
 * Rho-Calculus Papers (http://rho.loria.fr/papersGuidelines.html)
