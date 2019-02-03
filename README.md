@@ -5,6 +5,7 @@ Practice & theory behind concurrency, parallelism, process calculi and effects s
 # Process calculi
 
 ## Actor model
+* Actor Model of Computation: Scalable Robust Information Systems - Carl Hewitt [(paper)](https://arxiv.org/abs/1008.1459)
 * [Erlang User's Guide - Concurrent Programming](http://erlang.org/doc/getting_started/conc_prog.html)
 * [Akka](https://akka.io/)
 
@@ -24,8 +25,8 @@ Concurrency - Vincent Cremet, Martin Odersky [(pdf)](http://lampwww.epfl.ch/~cre
 * A π-Calculus Internal Domain-Specific - Language for Scala[(pdf)](https://www.ime.usp.br/~cef/mac499-10/monografias/pedromatiello/pistache-monograph/monograph.pdf), [(slides)](https://www.slideshare.net/pmatiello/pistache-sbmf)
 
 ## rho-calculus
-* https://blog.rchain.coop/blog/2018/07/17/intro-rho-calc/
-* https://www.youtube.com/watch?v=50z-TP0_HEA&list=PLf2bbiic5ZjD3q67melAFj8UWUFZy4PKP
+* Introduction to Rho Calculus -  Jeremy Beal [(blog post)](https://blog.rchain.coop/blog/2018/07/17/intro-rho-calc/)
+* Introduction to the design of computational calculi [(video playlist)](https://www.youtube.com/watch?v=50z-TP0_HEA&list=PLf2bbiic5ZjD3q67melAFj8UWUFZy4PKP)
 * Rho-Calculus Papers (http://rho.loria.fr/papersGuidelines.html)
 
 
@@ -60,6 +61,7 @@ Concurrency - Vincent Cremet, Martin Odersky [(pdf)](http://lampwww.epfl.ch/~cre
 * Session Types for Rust [(paper)](http://munksgaard.me/papers/laumann-munksgaard-larsen.pdf)
 * Embedding Session Types in Haskell [(video)](https://www.youtube.com/watch?v=rweCcOTfgWs)
 * [Publications by Sam Lindley](http://homepages.inf.ed.ac.uk/slindley/) Session types, compare to actors, CPS,
+* OPLSS 2018 - Session-Typed Concurrent Programming - Stephanie Balzer [(video lectures)](https://www.cs.uoregon.edu/research/summerschool/summer18/topics.php#Balzer)
 
 # Parallelism/Concurrency in programming languages
 
@@ -83,6 +85,7 @@ Concurrency - Vincent Cremet, Martin Odersky [(pdf)](http://lampwww.epfl.ch/~cre
 ## Parallelism/Concurrency in Rust
 * [The Rust Programming Language - Concurrency](https://doc.rust-lang.org/book/ch16-00-concurrency.html)
 * Session Types for Rust [(paper)](http://munksgaard.me/papers/laumann-munksgaard-larsen.pdf)
+* OPLSS 2018 - Aaron Turon [(video lectures, links)](https://www.cs.uoregon.edu/research/summerschool/summer18/topics.php#Turon)
 
 ## Parallelism/Concurrency in Go
 * [Go docs - Concurrency](https://golang.org/doc/effective_go.html#concurrency)
