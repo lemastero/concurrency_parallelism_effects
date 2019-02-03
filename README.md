@@ -26,12 +26,15 @@ Concurrency - Vincent Cremet, Martin Odersky [(pdf)](http://lampwww.epfl.ch/~cre
 
 ## rho-calculus
 * Introduction to Rho Calculus -  Jeremy Beal [(blog post)](https://blog.rchain.coop/blog/2018/07/17/intro-rho-calc/)
-* Introduction to the design of computational calculi [(video playlist)](https://www.youtube.com/watch?v=50z-TP0_HEA&list=PLf2bbiic5ZjD3q67melAFj8UWUFZy4PKP)
+* Introduction to the design of computational calculi - RChain [(video playlist)](https://www.youtube.com/watch?v=50z-TP0_HEA&list=PLf2bbiic5ZjD3q67melAFj8UWUFZy4PKP)
 * Rho-Calculus Papers (http://rho.loria.fr/papersGuidelines.html)
 
 
 
 # Approaches to concurrency
+
+## Messaging Patterns
+* [Enterprise Integration Patterns - Messaging Patterns](https://www.enterpriseintegrationpatterns.com/patterns/messaging/index.html)
 
 ## Fork Join
 * [Java Tutorials - Fork/Join](https://docs.oracle.com/javase/tutorial/essential/concurrency/forkjoin.html)
@@ -104,6 +107,7 @@ Concurrency - Vincent Cremet, Martin Odersky [(pdf)](http://lampwww.epfl.ch/~cre
 ## Parallelism/Concurrency in Erlang
 * [Erlang User's Guide - Concurrent Programming](http://erlang.org/doc/getting_started/conc_prog.html)
 * Modelling Erlang Processes as Petri Nets [(video)](https://www.youtube.com/watch?v=Gzl5dBNxD6Q)
+
 
 # Computational effects
 * [yallop/effects-bibliography](https://github.com/yallop/effects-bibliography)
