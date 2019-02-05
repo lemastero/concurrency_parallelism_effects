@@ -103,6 +103,7 @@ Concurrency - Vincent Cremet, Martin Odersky [(pdf)](http://lampwww.epfl.ch/~cre
 * [Haskell STM](http://hackage.haskell.org/package/stm)
 * Embedding Session Types in Haskell [(video)](https://www.youtube.com/watch?v=rweCcOTfgWs)
 * Revisiting software transactional memory in Haskell 2016 [(paper)](https://dl.acm.org/citation.cfm?id=2976020)
+* [ubenpieters/Orthogonal-Pipes](https://github.com/rubenpieters/Orthogonal-Pipes) Faster coroutine pipelines - Michael Spivey[paper](https://dl.acm.org/citation.cfm?doid=3136534.3110249)
 
 ## Parallelism/Concurrency in Erlang
 * [Erlang User's Guide - Concurrent Programming](http://erlang.org/doc/getting_started/conc_prog.html)
