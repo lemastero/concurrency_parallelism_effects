@@ -116,6 +116,7 @@ Concurrency - Vincent Cremet, Martin Odersky [(pdf)](http://lampwww.epfl.ch/~cre
 * [effect-handlers/effects-rosetta-stone](https://github.com/effect-handlers/effects-rosetta-stone)
 * Algebraic Effect Handlers go Mainstream [links to publications of participants](https://www.dagstuhl.de/program/calendar/partlist/?semnr=18172&SUOG), report with summary of talks [(pdf)](http://drops.dagstuhl.de/opus/volltexte/2018/9762/pdf/dagrep_v008_i004_p104_18172.pdf)
 * [purescript/purescript-effect](https://github.com/purescript/purescript-effect)
+* [slamdata/purescript-aff](https://github.com/slamdata/purescript-aff)
 * [owickstrom/purescript-leffe](https://github.com/owickstrom/purescript-leffe)
 
 
